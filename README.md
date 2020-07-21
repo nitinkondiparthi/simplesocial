@@ -36,3 +36,11 @@ Once you install all the necessary modules, you will be able to run the server s
 ![runserver](https://github.com/nitinkondiparthi/simplesocial/blob/master/runserver.PNG)
 
 Then, copy the link to the clipboard and paste it into your web browser and you'll see something like this
+![homepage](https://github.com/nitinkondiparthi/simplesocial/blob/master/homepage.PNG)
+
+From here, you can register as a user and sign into the website. Once you are logged in, you can join any groups you like, create ay new groups and comment on any posts inside each group. Feel free to move around and discover more features!
+
+# Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
