@@ -32,3 +32,7 @@ If that fails, try:
 pip install django-modulename
 ```
 Once you install all the necessary modules, you will be able to run the server successfully and you will see something like this:
+
+![runserver](https://github.com/nitinkondiparthi/simplesocial/blob/master/runserver.PNG)
+
+Then, copy the link to the clipboard and paste it into your web browser and you'll see something like this
